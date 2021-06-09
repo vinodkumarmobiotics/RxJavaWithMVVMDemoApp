@@ -1,0 +1,2 @@
+rootProject.name = "DemoAppWithRxTech"
+include ':app'
